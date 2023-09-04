@@ -1,2 +1,2 @@
 # SAYNA-INTERNET-PROJET1
-Le projet du parcours Discovery - Module "Naviguer en toute sécurité" 🥰
+Le projet du parcours Discovery - Module "Comment Internet fonctionne" 🥰
